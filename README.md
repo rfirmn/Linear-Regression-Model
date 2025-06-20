@@ -2,6 +2,10 @@
 
 This project presents a **Simple Linear Regression analysis** performed on an e-commerce customer dataset to explore and predict customer spending behavior.
 
+# Ecommerce Customer Spending Prediction
+
+This project presents a **Simple Linear Regression analysis** performed on an e-commerce customer dataset to explore and predict customer spending behavior.
+
 ## 📌 Project Overview
 
 The main objective of this notebook is to:
